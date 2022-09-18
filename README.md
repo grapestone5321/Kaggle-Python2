@@ -59,6 +59,13 @@ https://github.com/rlvaugh/Impractical_Python_Projects
 
 by Mahesh Venkitachalam
 
+### Python Playground: Review - Intermediate Python Projects
+
+https://www.youtube.com/watch?v=AW7vqKWJ04I&t=2s
+
+Dec 9, 2016
+
+Python Programmer
 
 ### github
 [https://github.com/rlvaugh/Impractical_Python_Projects](https://github.com/electronut/pp/)
