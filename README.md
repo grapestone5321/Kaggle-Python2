@@ -34,6 +34,9 @@ Learning Python
 ### github
 https://github.com/s0mnaths/Automate-the-Boring-Stuff-with-Python-Solutions
 
+
+https://github.com/JasonMDev/automate-boring-stuff
+
 -----
 
 # Impractical Python Projects
