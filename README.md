@@ -31,6 +31,9 @@ Last updated on Jul 4, 2022
 
 Learning Python
 
+### github
+https://github.com/s0mnaths/Automate-the-Boring-Stuff-with-Python-Solutions
+
 -----
 
 # Impractical Python Projects
