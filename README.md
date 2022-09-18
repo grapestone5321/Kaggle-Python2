@@ -41,6 +41,9 @@ Mar 30, 2022
 
 Python Programmer
 
+### github
+https://github.com/rlvaugh/Impractical_Python_Projects
+
 -----
 
 
