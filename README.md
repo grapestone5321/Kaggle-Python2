@@ -55,6 +55,16 @@ https://github.com/rlvaugh/Impractical_Python_Projects
 
 -----
 
+# Python Playground: Geeky Projects for the Curious Programmer
+
+by Mahesh Venkitachalam
+
+
+### github
+[https://github.com/rlvaugh/Impractical_Python_Projects](https://github.com/electronut/pp/)
+
+-----
+
 
 # Books (affiliate links)
 
