@@ -17,7 +17,7 @@ Learning Python
 
 https://www.youtube.com/playlist?list=PL0-84-yl1fUnRuXGFe_F7qSH1LEnn9LkW
 
-updated on Aug 31, 2015
+Last updated on Aug 31, 2015
 
 Al Sweigart
 
