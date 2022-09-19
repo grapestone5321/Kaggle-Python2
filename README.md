@@ -3,7 +3,7 @@ Kaggle-Python2
 
 -----
 
-# Python Crash Course
+# 1 Python Crash Course
 
 https://www.youtube.com/playlist?list=PLiEts138s9P1A6rXyg4KZQiNBB_qTkq9V
 
@@ -16,7 +16,7 @@ https://github.com/ehmatthes/pcc
 
 -----
 
-# Automate the Boring Stuff with Python: Practical Programming for Total Beginners
+# 2 Automate the Boring Stuff with Python
 
 https://www.youtube.com/playlist?list=PL0-84-yl1fUnRuXGFe_F7qSH1LEnn9LkW
 
@@ -39,7 +39,7 @@ https://github.com/JasonMDev/automate-boring-stuff
 
 -----
 
-# Impractical Python Projects
+# 3 Impractical Python Projects
 
 
 ### You've learnt the python basics, now what? Impractical Python Projects
@@ -55,7 +55,7 @@ https://github.com/rlvaugh/Impractical_Python_Projects
 
 -----
 
-# Python Playground: Geeky Projects for the Curious Programmer
+# 4 Python Playground
 
 by Mahesh Venkitachalam
 
@@ -71,7 +71,7 @@ Python Programmer
 [https://github.com/rlvaugh/Impractical_Python_Projects](https://github.com/electronut/pp/)
 
 -----
-
+-----
 
 # Books (affiliate links)
 
